@@ -3,7 +3,8 @@ Code for jane street puzzles
 
 ## January 2025
 ![Screenshot from 2025-01-31 19-55-36](https://github.com/user-attachments/assets/f80d0e95-3a3f-4ec4-ac94-83d66a60a726)
-The basis is a standard backtracking sudoku solver.
+
+The basis is a standard backtracking sudoku solver. 
 I am not particularly happy with the solution, as it is quite brute force.
 
 The speedup that is necessary is to observe that after a row is completed, (we move left to right, up to down) we 
