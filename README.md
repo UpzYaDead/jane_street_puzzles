@@ -1,5 +1,5 @@
 # jane_street_puzzles
-Code for [Jane Street puzzles](https://www.janestreet.com/puzzles/archive/)
+Code/solutions for [Jane Street puzzles](https://www.janestreet.com/puzzles/archive/)
 
 ## January 2018
 ![image](https://github.com/user-attachments/assets/28c4feb5-eee0-44ed-92a1-2b704e79e3aa)
