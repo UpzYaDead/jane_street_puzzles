@@ -1,13 +1,6 @@
 # jane_street_puzzles
 Code/solutions for [Jane Street puzzles](https://www.janestreet.com/puzzles/archive/)
 
-## January 2018
-![image](https://github.com/user-attachments/assets/28c4feb5-eee0-44ed-92a1-2b704e79e3aa)
-
-This was a pretty fun puzzle! Doable with a lot of bookkeeping! You could of course brute force
-it and just branch early in your solution once any of the products are not satisfied, something I might 
-still do later.
-
 ## January 2025
 ![Screenshot from 2025-01-31 19-55-36](https://github.com/user-attachments/assets/f80d0e95-3a3f-4ec4-ac94-83d66a60a726)
 
